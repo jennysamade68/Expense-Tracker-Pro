@@ -107,3 +107,4 @@ def manual_expense_form():
         st.success(
             "✅ Expense saved successfully!"
         )
+         st.rerun()
