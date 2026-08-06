@@ -6,10 +6,7 @@ import numpy as np
 
 # Change this path if your installation is different
 
-pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-)
-
+pytesseract.pytesseract.tesseract_cmd = "tesseract"
 
 
 def preprocess_image(image_path):
