@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+matplotlib
+bcrypt
+pillow
+pytesseract
+opencv-python-headless
+reportlab
+requests
