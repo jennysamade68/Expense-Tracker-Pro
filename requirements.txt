@@ -1,8 +1,0 @@
-streamlit
-pandas
-openpyxl
-matplotlib
-pillow
-pytesseract
-opencv-python-headless
-python-dotenv
